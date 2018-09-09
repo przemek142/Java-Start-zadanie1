@@ -5,6 +5,8 @@ public class zad1 {
         System.out.println("programowania");
         System.out.print('i');
         System.out.println("td.");
-        System.out.println("Bo lubię\nprogramować\n!!!");
+        System.out.println("Bo lubię\n" +
+                "programować\n" +
+                "!!!");
     }
 }
