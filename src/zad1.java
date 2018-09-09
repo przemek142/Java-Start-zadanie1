@@ -7,6 +7,6 @@ public class zad1 {
         System.out.println("td.");
         System.out.println("Bo lubię\n" +
                 "programować\n" +
-                "!!!");
+                "!!! :)");
     }
 }
